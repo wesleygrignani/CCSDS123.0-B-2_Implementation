@@ -1,0 +1,26 @@
+INFO-FLOW: Workspace C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls/solution1 opened at Tue Jan 17 12:52:06 -0300 2023
+Execute     ap_set_clock -name default -period 10 -default=false 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+Execute     set_part xcvu5p-flva2104-1-e 
+Execute       create_platform xcvu5p-flva2104-1-e -board  
+DBG:HLSDevice: Trying to load device library: C:/Xilinx/Vitis_HLS/2022.2\lib\win64.o\xv_hlsvwrap.dll
+DBG:HLSDevice: first parts/arch.xml in RDI_DATADIR: C:/Xilinx/Vivado/2022.2/data/parts/arch.xml
+DBG:HLSDevice: init success
+ERROR: [HLS 200-1023] Part 'xcvu5p-flva2104-1-e' is not installed.
+Command       create_platform done; error code: 1; 0.404 sec.
+INFO-FLOW: Caught error in set_part: command 'create_platform' returned error code
+    while executing
+"create_platform $value -board $board"
+    (procedure "ap_internal_set_part" line 26)
+    invoked from within
+"ap_internal_set_part "
+Command     set_part done; error code: 2; 0.406 sec.
+INFO-FLOW: Caught error in open_solution: command 'create_platform' returned error code
+    while executing
+"::AP::initSetPart"
+    (procedure "ap_internal_open_solution" line 131)
+    invoked from within
+"ap_internal_open_solution "
+Command   open_solution done; error code: 2; 0.492 sec.
+Command ap_source done; error code: 1; 0.542 sec.
+Execute cleanup_all 

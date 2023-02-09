@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="predictor.c" path="C:\Users\wesle\Desktop\Projetos\HLS\compressor_hls\predictor.c"/>
+    <originFiles name="predictor.h" path="C:\Users\wesle\Desktop\Projetos\HLS\compressor_hls\predictor.h"/>
+    <originFiles name="sample_adaptative.c" path="C:\Users\wesle\Desktop\Projetos\HLS\compressor_hls\sample_adaptative.c"/>
+    <originFiles name="sample_adaptative.h" path="C:\Users\wesle\Desktop\Projetos\HLS\compressor_hls\sample_adaptative.h"/>
+  </source>
+  <testbench>
+    <originFiles name="main.c" path="C:\Users\wesle\Desktop\Projetos\HLS\compressor_hls\main.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

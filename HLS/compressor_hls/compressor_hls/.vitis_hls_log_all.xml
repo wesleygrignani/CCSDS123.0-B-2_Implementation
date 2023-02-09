@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog>
+        <logs message="ERROR: [HLS 200-1023] Part 'xcvu5p-flva2104-1-e' is not installed.&#xD;&#xA;command 'create_platform' returned error code&#xD;&#xA;    while executing&#xD;&#xA;&quot;source C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls/solution1/csynth.tcl&quot;&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;hls::main C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls/solution1/csynth.tcl&quot;&#xD;&#xA;    (&quot;uplevel&quot; body line 1)&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;uplevel 1 hls::main {*}$newargs&quot;&#xD;&#xA;    (procedure &quot;hls_proc&quot; line 16)&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;hls_proc [info nameofexecutable] $argv&quot;" projectName="compressor_hls" solutionName="solution1" date="2023-01-17T12:52:07.240-0300"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

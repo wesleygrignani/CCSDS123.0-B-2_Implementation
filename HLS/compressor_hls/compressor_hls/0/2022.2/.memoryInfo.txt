@@ -1,0 +1,49 @@
+
+Nome do host:                              WESLEY
+Nome do sistema operacional:               Microsoft Windows 11 Home Single Language
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   wesleygrignani@hotmail.com
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00327-31034-39853-AAOEM
+Data da instalaá∆o original:               02/12/2022, 15:19:29
+Tempo de Inicializaá∆o do Sistema:         17/01/2023, 08:35:15
+Fabricante do sistema:                     SAMSUNG ELECTRONICS CO., LTD.
+Modelo do sistema:                         550XDA
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~2419 Mhz
+Vers∆o do BIOS:                            American Megatrends International, LLC. P17CFB.044.220223.HQ, 23/02/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.915 MB
+Mem¢ria f°sica dispon°vel:                 1.198 MB
+Mem¢ria Virtual: Tamanho M†ximo:           9.067 MB
+Mem¢ria Virtual: Dispon°vel:               1.562 MB
+Mem¢ria Virtual: Em Uso:                   7.505 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\WESLEY
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5020880
+                                           [02]: KB5012170
+                                           [03]: KB5022303
+                                           [04]: KB5020487
+Placa(s) de Rede:                          2 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [02]: Intel(R) Wireless-AC 9462
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.0.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.0.111
+                                                 [02]: fe80::df13:1075:7381:6b4
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

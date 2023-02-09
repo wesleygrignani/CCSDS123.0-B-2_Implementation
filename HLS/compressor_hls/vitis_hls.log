@@ -1,0 +1,34 @@
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vitis_HLS/2022.2/bin/unwrapped/win64.o/vitis_hls.exe'
+INFO: [HLS 200-10] For user 'wesle' on host 'wesley' (Windows NT_amd64 version 6.2) on Tue Jan 17 12:52:06 -0300 2023
+INFO: [HLS 200-10] In directory 'C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls'
+Sourcing Tcl script 'C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls/solution1/csynth.tcl'
+INFO: [HLS 200-1510] Running: source C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls/solution1/csynth.tcl
+INFO: [HLS 200-1510] Running: open_project compressor_hls 
+INFO: [HLS 200-10] Opening project 'C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls'.
+INFO: [HLS 200-1510] Running: set_top predictor 
+INFO: [HLS 200-1510] Running: add_files predictor.c 
+INFO: [HLS 200-10] Adding design file 'predictor.c' to the project
+INFO: [HLS 200-1510] Running: add_files predictor.h 
+INFO: [HLS 200-10] Adding design file 'predictor.h' to the project
+INFO: [HLS 200-1510] Running: add_files sample_adaptative.c 
+INFO: [HLS 200-10] Adding design file 'sample_adaptative.c' to the project
+INFO: [HLS 200-1510] Running: add_files sample_adaptative.h 
+INFO: [HLS 200-10] Adding design file 'sample_adaptative.h' to the project
+INFO: [HLS 200-1510] Running: add_files -tb main.c -cflags -Wno-unknown-pragmas -csimflags -Wno-unknown-pragmas 
+INFO: [HLS 200-10] Adding test bench file 'main.c' to the project
+INFO: [HLS 200-1510] Running: open_solution solution1 -flow_target vivado 
+INFO: [HLS 200-10] Opening solution 'C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+ERROR: [HLS 200-1023] Part 'xcvu5p-flva2104-1-e' is not installed.
+command 'create_platform' returned error code
+    while executing
+"source C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls/solution1/csynth.tcl"
+    invoked from within
+"hls::main C:/Users/wesle/Desktop/Projetos/HLS/compressor_hls/compressor_hls/solution1/csynth.tcl"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel 1 hls::main {*}$newargs"
+    (procedure "hls_proc" line 16)
+    invoked from within
+"hls_proc [info nameofexecutable] $argv"
+INFO: [HLS 200-112] Total CPU user time: 0 seconds. Total CPU system time: 0 seconds. Total elapsed time: 0.979 seconds; peak allocated memory: 66.492 MB.
